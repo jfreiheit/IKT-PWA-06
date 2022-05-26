@@ -1,0 +1,27 @@
+{
+    "name": "IKT-PWA-05",
+    "version": "1.0.0",
+    "description": "Vorlage für Kamera -  PWA mit Web-App-Manifest",
+    "main": "index.js",
+    "scripts": {
+        "start": "http-server -c-1"
+    },
+    "keywords": [
+        "pwa",
+        "progressive",
+        "web",
+        "app",
+        "ikt",
+        "htw",
+        "fiw"
+    ],
+    "author": "J. freiheit",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jfreiheit/IKT-PWA-05.git"
+    },
+    "license": "ISC",
+    "devDependencies": {
+        "http-server": "^14.1.0"
+    }
+}
